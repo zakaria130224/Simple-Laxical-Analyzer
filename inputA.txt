@@ -1,0 +1,19 @@
+main ()
+
+{
+	
+	//hi this is comment
+	int a, b, sum;
+	//if()
+	
+	//a=b+sum;
+	float 2ab,_ab,ab; //hi another comment
+	double d;
+	ab=0.10;
+
+ 	sum = a+b;
+ 	a++;
+
+	return 0;
+
+}

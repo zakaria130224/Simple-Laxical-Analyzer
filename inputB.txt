@@ -1,0 +1,16 @@
+int main()
+{
+	int 2adf,_ad2f = 20.36, a3d3 = .67.8.4;
+	int aaa,b,c=50,a;
+	float 4fc,bd;
+	for(int i=0;i<=5;i++)
+	{
+	if(a>=b)
+	{
+		a++;
+	}
+		a=a+b;
+		c++;
+	}
+// ><;<<;!&
+}
